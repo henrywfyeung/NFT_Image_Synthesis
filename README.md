@@ -20,7 +20,7 @@ For using the code, please do the following:
     ` pip install opencv-python ` \
     ` pip install numpy `
    
-6) Goes to the directory that contains this repo
+6) Goes to the directory that contains this repo \
    ` cd {path-to-repo}/NFT_Image_Synthesis `
 7) run 
    
