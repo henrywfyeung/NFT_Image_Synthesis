@@ -14,6 +14,7 @@ For using the code, please do the following:
     height:             the height of the generated images
     variation_target:   the expected number of unique images that your assets can generate
     items:              the number of generated images
+    order:              the list of folder in order of left to right (background to foreground) in terms of overlaying
     ```
 5) Install **opencv-python** and **numpy**
     
